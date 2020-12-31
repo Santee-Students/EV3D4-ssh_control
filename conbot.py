@@ -86,4 +86,5 @@ while True:
    if k == ' ':
       stop()
    if k == 'q':
+      stop()
       exit()
